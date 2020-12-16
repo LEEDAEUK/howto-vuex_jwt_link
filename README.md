@@ -12,7 +12,7 @@ frontend / router / index.js의 beforeEnter에서 store.js에서 토큰을 확�
 
 3. 폴더 안에는 아래 그림처럼 5개의 파일을 만들자
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0bf9dfb-672e-4e31-ba46-5516a069203d/_2020-12-08_09.44.57.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0bf9dfb-672e-4e31-ba46-5516a069203d/_2020-12-08_09.44.57.png)
+![_2020-12-08_09 44 57](https://user-images.githubusercontent.com/46176241/102280644-e4a77980-3f70-11eb-9727-0e7786792468.png) 
 
     actions.js
 
